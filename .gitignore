@@ -1,0 +1,15 @@
+# IDE 설정
+.idea/
+*.iml
+
+# 빌드 결과물
+build/
+out/
+dist/
+
+# OS 임시 파일
+.DS_Store
+Thumbs.db
+
+# 환경변수/비밀정보
+.env
